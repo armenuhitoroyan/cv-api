@@ -1,0 +1,93 @@
+{
+  "contacts": [
+    {
+      "icon": "FaPhone",
+      "title": "Phone Number",
+      "description": "+(123) 456 7890"
+    },
+    {
+      "icon": "FaVoicemail",
+      "title": "Email Address",
+      "description": "Admin@example.com"
+    },
+    {
+      "icon": "FaLocationArrow",
+      "title": "Office Location",
+      "description": "123 New York E Block 12670, Street 2101."
+    }
+  ],
+  "images": [
+    {
+      "src": "https://afsu.tohidur.com/img/clients-img-1.png",
+      "alt": "Client 1"
+    },
+    {
+      "src": "https://afsu.tohidur.com/img/clients-img-2.png",
+      "alt": "Client 2"
+    },
+    {
+      "src": "https://afsu.tohidur.com/img/clients-img-3.png",
+      "alt": "Client 3"
+    },
+    {
+      "src": "https://afsu.tohidur.com/img/clients-img-4.png",
+      "alt": "Client 4"
+    },
+    {
+      "src": "https://afsu.tohidur.com/img/clients-img-5.png",
+      "alt": "Client 5"
+    },
+    {
+      "src": "https://afsu.tohidur.com/img/clients-img-1.png",
+      "alt": "Client 1"
+    },
+    {
+      "src": "https://afsu.tohidur.com/img/clients-img-2.png",
+      "alt": "Client 2"
+    },
+    {
+      "src": "https://afsu.tohidur.com/img/clients-img-3.png",
+      "alt": "Client 3"
+    },
+    {
+      "src": "https://afsu.tohidur.com/img/clients-img-4.png",
+      "alt": "Client 4"
+    },
+    {
+      "src": "https://afsu.tohidur.com/img/clients-img-5.png",
+      "alt": "Client 5"
+    }
+  ],
+  "services": [
+    {
+      "title": "Graphics Design",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "icon": "Layers",
+      "bgColor": "#6de643"
+    },
+    {
+      "title": "Design Tools",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "icon": "PenTool",
+      "bgColor": "#f39b01"
+    },
+    {
+      "title": "Stunning Design",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "icon": "Smartphone",
+      "bgColor": "#e643ae"
+    },
+    {
+      "title": "Project Management",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "icon": "Cloud",
+      "bgColor": "#436de6"
+    }
+  ],
+  "skills": [
+    { "start": 4, "percentage": 50, "skill": "Graphic Design" },
+    { "start": 18, "percentage": 75, "skill": "Development" },
+    { "start": 7, "percentage": 38, "skill": "Marketing Ideas" },
+    { "start": 10, "percentage": 63, "skill": "Web Management" }
+  ]
+}
